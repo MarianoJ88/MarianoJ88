@@ -1,6 +1,7 @@
 👋  I'm Mariano. I am growing as a FrontEnd Developer. You can see some of my projects that I have with CoderHouse where now I am getting a certificate as a FrontEnd Dev in HTML, CSS, JS and ReactJS.
 
 
+
 💻 I have finished the first part of the career, which includes HTML, CSS, SASS, Boostrap and SEO.
 
 🚀 Now I'm currently studying JavaScript
@@ -10,7 +11,7 @@
 
 My Skill Set
 
-Frontend
+Frontend:
 ReactJS. CSS3. HTML5. JavaScript. Bootstrap.
 
 
