@@ -11,5 +11,5 @@ My Skill Set
 Frontend
 ReactJS. CSS3. HTML5. JavaScript. Bootstrap.
 
-<i class="fa-brands fa-html5"></i>
+
 
